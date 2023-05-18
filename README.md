@@ -1,4 +1,4 @@
-# CHE XXX: Computational Fluid Dynamics
+# Introduction To Computational Fluid Dynamics
 
 ## Course Description
 
