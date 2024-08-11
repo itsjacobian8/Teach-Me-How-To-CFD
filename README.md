@@ -20,7 +20,7 @@ By the end of this course, students should be able to:
   
   6.	Use Python and Jupyter Notebooks to solve simple numerical problems
 
-##PREREQUISITES
+## PREREQUISITES
 
 The only prerequisites for this course are introductory fluid mechanics, calculus & numerical methods, and reading/listening comprehension :)
 
